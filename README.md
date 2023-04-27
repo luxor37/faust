@@ -1,8 +1,8 @@
 ﻿## Description
 
-Pour avoir la liste des cours que l'UQAM veut pas fournir...
+Pour obtenir la liste des cours que l'UQAM ne veut pas fournir...
 
-Download la version compilé exe pour windows sur la page des [releases](https://github.com/luxor37/faust/releases)
+Download la version compilée exe pour windows sur la page des [releases](https://github.com/luxor37/faust/releases)
 
 ### Dependencies
 
@@ -13,20 +13,20 @@ Download la version compilé exe pour windows sur la page des [releases](https:/
 
 Installer Python3 sur sa machine (les commandes suivantes peuvent varier selon les systèmes d'exploitation)
 
-Installer les packages python necessaire:
+Installer les packages python nécessaires:
 ```bash
 pip install -r requirements.txt
 ```
 
-Rouler le programme:
+Exécuter le programme:
 ```bash
 python faust.py
 ```
 
 ### Configuration
 
-Si tu utilise pas l'exécutable, tu peux aller dans [variables.py](variables.py) pour mettre a jour la liste des codes des programmes ainsi que les cookies et headers pour que les requêtes continuent a fonctionner (je compte pas maintenir le projet plus que ca, donc ouvrez un issue sur github avec les nouvelles infos pour que j'update ca)
+Si tu n'utilise pas l'exécutable windows directement, tu peux aller dans [variables.py](variables.py) pour mettre à jour la liste des codes des programmes ainsi que les cookies et headers pour que les requêtes continuent à fonctionner (je ne compte pas maintenir le projet plus que ça, donc ouvrez des issues sur github avec les nouvelles infos pour que je le mette à jour ca)
 
 ## Authors
 
-idk ¯\\_(ツ)_/¯, je me suis fait donner ca par un ami et j'ai amélioré, je suis même plus étudiant XD
+idk ¯\\_(ツ)_/¯, je me suis fait donner ce code par un ami et je l'ai amélioré à sa requête, je suis même plus étudiant XD
