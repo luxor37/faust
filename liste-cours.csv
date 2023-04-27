@@ -1,13 +1,139 @@
 groupe,jour,debut,fin,salle,prof,type,presentiel,dates,sigle,titre,note
-30,Mardi,14h00,17h00,A-2730,Pierre Duchesne,Cours magistral,,,CPS1003,Communication et journalisme politiques, Modalité d'enseignement: Cours en présentiel Période d'activité:9 janvier 2023 au 21 avril 2023
-80,--,--,--,--,Tania Gosselin,--,,,CPS5000,Stage, Inscription par votre direction de programme Modalité d'enseignement: Cours en présentiel Période d'activité:9 janvier 2023 au 21 avril 2023
-80,--,--,--,--,Tania Gosselin,--,,,CPS5005,Stage, Inscription par votre direction de programme Modalité d'enseignement: Cours en présentiel Période d'activité:9 janvier 2023 au 21 avril 2023
-20,Mardi,09h30,12h30,A-2405,Tania Gosselin,Cours magistral,,,CPS6001,"Séminaire de synthèse en communication, politique et société", Modalité d'enseignement: Cours en présentiel Période d'activité:9 janvier 2023 au 21 avril 2023
-20,Mardi,18h00,21h00,,Nicolas Guillemette,Cours magistral,,,ECO1600,Économie du Québec, Modalité d'enseignement: Cours à distance Période d'activité:9 janvier 2023 au 30 avril 2023
-40,Jeudi,14h00,17h00,DS-4375,Simon Cadorette,Cours magistral,,,ECO1600,Économie du Québec, Modalité d'enseignement: Cours en présentiel Période d'activité:9 janvier 2023 au 30 avril 2023
-20,Mardi,14h00,17h00,J-1050,Yves Théoret,Cours magistral,,,EDM1001,Introduction aux théories de la communication médiatique, Modalité d'enseignement: Cours en présentiel Période d'activité:9 janvier 2023 au 21 avril 2023
-40,Jeudi,09h30,12h30,A-2875,Maxime Ouellet,Cours magistral,,,EDM2854,Communication médiatique et mondialisation, 7332 - COURS DE BLOC C Modalité d'enseignement: Cours en présentiel Période d'activité:9 janvier 2023 au 21 avril 2023
-40,Jeudi,18h00,21h00,A-2860,Véronique Marino,Cours magistral,,,EDM3210,Organisation économique des médias, 6503-6504-6505-COHORTE 2022 Modalité d'enseignement: Cours en présentiel Période d'activité:9 janvier 2023 au 21 avril 2023
-41,Mercredi,09h30,12h30,DS-R525,Catalina Briceno,Cours magistral,,,EDM3210,Organisation économique des médias, 7234-COHORTE 2022 Modalité d'enseignement: Cours en présentiel Période d'activité:9 janvier 2023 au 21 avril 2023
-40,Jeudi,09h30,12h30,R-R140,Dany Beaupré,Cours magistral,,,EDM3555,Rhétorique des médias interactifs, 6504-Cohorte 2022 Modalité d'enseignement: Cours en présentiel Période d'activité:9 janvier 2023 au 21 avril 2023
-10,Lundi,14h00,17h00,DS-4375,Isabelle Caron,Cours magistral,,,EDM3602,Médias numériques et mobilisation sociopolitique, 7332 - Cohorte 3e année Modalité d'enseignement: Cours en présentiel Période d'activité:9 janvier 2023 au 21 avril 2023
+10,Lundi,18h00,21h00,DS-1420,Daniel Tomiuk,Cours magistral,,,AOT1110,"Organisation, gestion et système d'information", Ce cours remplace MET1110 Ce cours remplace MET1110 Ce cours remplace MET1110
+30,Mercredi,18h00,21h00,DS-1525,Daniel Tomiuk,Cours magistral,,,AOT1110,"Organisation, gestion et système d'information", Ce cours remplace MET1110 Ce cours remplace MET1110 Ce cours remplace MET1110
+40,Jeudi,09h30,12h30,DS-1420,Daniel Tomiuk,Cours magistral,,,AOT1110,"Organisation, gestion et système d'information", Ce cours remplace MET1110 Ce cours remplace MET1110 Ce cours remplace MET1110
+30,Mercredi,18h00,21h00,DS-M460,Abdelhaq Sari,Cours magistral,,,AOT5321,Systèmes décisionnels et intelligence d'affaires (B.I.), CE COURS REMPLACE LE MET6910Inscription par votre direction de programme
+40,Jeudi,09h30,12h30,R-R150,Pierre Hadaya,Cours magistral,,,AOT5332,Introduction aux progiciels de gestion intégrés (PGI), REMPLACE LE COURS MET4902
+20,Mardi,18h00,21h00,V-3445,Rachid Belkouch,Cours magistral,,,AOT5334,Implantation et configuration de progiciels de gestion intégrés (PGI), CE COURS REMPLACE LE MET5904SÉANCES EN LABORATOIRE
+10,Lundi,18h00,21h00,DS-M280,Rachid Belkouch,Cours magistral,,,AOT5341,Collaboration à l'ère du travail hybride, CE COURS REMPLACE LE MET5311
+10,Lundi,09h00,12h00,SB-R440,Nicolas Pouderous,Cours magistral,,,BIO0300,Biologie générale (hors programme), Cours d'appoint hors programme.
+10,Lundi,09h30,12h30,PK-R310,Livain Breau,Cours magistral,,,CHI1570,Nutrition humaine,
+20,Mardi,17h00,20h00,PK-R605,Nicoleta Bogdan,Cours magistral,,,CHI3910,Chimie environnementale de l'atmosphère,
+20,Mardi,18h00,21h00,DS-M425,Yan-Olivier Charest,Cours magistral,,,ECO1081,Économie des technologies de l'information,
+50,Vendredi,09h30,12h30,DS-R515,Yan-Olivier Charest,Cours magistral,,,ECO1081,Économie des technologies de l'information,
+40,Jeudi,09h00,12h00,SH-3140,Marie-Ève Maillé,Cours magistral,,,ENV5110,Communication scientifique en sciences de l'environnement,
+40,Jeudi,13h00,15h00,SH-3140,Marie-Ève Maillé,Laboratoire,,,ENV5110,Communication scientifique en sciences de l'environnement,
+50,Vendredi,09h30,12h00,SH-2560,Nicolas Merveille,Cours magistral,,,FSM4000,Sciences et société, Cohorte 2019 - 4e année
+30,Mercredi,14h00,17h00,A-4160,Olivier Caron,Cours magistral,,,GEO4091,Systèmes d'information géographique, Cours obligatoire à la majeure 6155 et au baccalauréat 7756.Sorties sur le terrain.
+30,Jeudi,12h00,14h00,A-4160,Olivier Caron,Laboratoire,,,GEO4091,Systèmes d'information géographique, Cours obligatoire à la majeure 6155 et au baccalauréat 7756.Sorties sur le terrain.
+30,Jeudi,14h00,16h00,A-4160,Olivier Caron,Laboratoire,,,GEO4091,Systèmes d'information géographique, Cours obligatoire à la majeure 6155 et au baccalauréat 7756.Sorties sur le terrain.
+10,Lundi,09h30,12h30,SH-R810,Quentin Stiévenart,Cours magistral,,,INF1070,Utilisation et administration des systèmes informatiques, Examens Examens Examens
+10,Mercredi,14h00,16h00,PK-S1540,Quentin Stiévenart,Atelier,,,INF1070,Utilisation et administration des systèmes informatiques, Examens Examens Examens
+10,Mercredi,14h00,16h00,PK-S1555,Quentin Stiévenart,Atelier,,,INF1070,Utilisation et administration des systèmes informatiques, Examens Examens Examens
+10,Mercredi,14h00,16h00,PK-S1575,Quentin Stiévenart,Atelier,,,INF1070,Utilisation et administration des systèmes informatiques, Examens Examens Examens
+11,Lundi,18h00,21h00,SH-3620,Quentin Stiévenart,Cours magistral,,,INF1070,Utilisation et administration des systèmes informatiques, Examens Examens Examens
+11,Mardi,18h00,20h00,PK-S1555,Quentin Stiévenart,Atelier,,,INF1070,Utilisation et administration des systèmes informatiques, Examens Examens Examens
+11,Mardi,18h00,20h00,PK-S1535,Quentin Stiévenart,Atelier,,,INF1070,Utilisation et administration des systèmes informatiques, Examens Examens Examens
+11,Mardi,18h00,20h00,PK-S1530,Quentin Stiévenart,Atelier,,,INF1070,Utilisation et administration des systèmes informatiques, Examens Examens Examens
+20,Mardi,13h30,16h30,SH-2420,Quentin Stiévenart,Cours magistral,,,INF1070,Utilisation et administration des systèmes informatiques, Examens Examens Examens
+20,Jeudi,13h30,15h30,PK-S1575,Quentin Stiévenart,Atelier,,,INF1070,Utilisation et administration des systèmes informatiques, Examens Examens Examens
+20,Jeudi,13h30,15h30,PK-S1565,Quentin Stiévenart,Atelier,,,INF1070,Utilisation et administration des systèmes informatiques, Examens Examens Examens
+10,Lundi,18h00,21h00,SH-R810,Mélanie Lord,Cours magistral,,,INF1120,Programmation I, Examens Examens Examens
+10,Mardi,18h00,20h00,PK-S1575,Mélanie Lord,Atelier,,,INF1120,Programmation I, Examens Examens Examens
+10,Mardi,18h00,20h00,PK-S1590,Mélanie Lord,Atelier,,,INF1120,Programmation I, Examens Examens Examens
+10,Mardi,18h00,20h00,PK-S1540,Mélanie Lord,Atelier,,,INF1120,Programmation I, Examens Examens Examens
+20,Mardi,09h30,12h30,SH-3420,Mélanie Lord,Cours magistral,,,INF1120,Programmation I, Examens Examens Examens
+20,Mercredi,09h30,11h30,PK-S1565,Mélanie Lord,Atelier,,,INF1120,Programmation I, Examens Examens Examens
+20,Mercredi,09h30,11h30,PK-S1580,Mélanie Lord,Atelier,,,INF1120,Programmation I, Examens Examens Examens
+21,Mardi,13h30,16h30,SH-R810,Mélanie Lord,Cours magistral,,,INF1120,Programmation I, Examens Examens Examens
+21,Jeudi,13h30,15h30,PK-S1555,Mélanie Lord,Atelier,,,INF1120,Programmation I, Examens Examens Examens
+21,Jeudi,13h30,15h30,PK-S1580,Mélanie Lord,Atelier,,,INF1120,Programmation I, Examens Examens Examens
+10,Lundi,13h30,16h30,SH-3420,Samuele Giraudo,Cours magistral,,,INF1132,Mathématiques pour l'informatique, Examens Examens Examens
+10,Vendredi,13h30,15h30,SH-3220,Samuele Giraudo,Atelier,,,INF1132,Mathématiques pour l'informatique, Examens Examens Examens
+10,Vendredi,13h30,15h30,SH-3420,Samuele Giraudo,Atelier,,,INF1132,Mathématiques pour l'informatique, Examens Examens Examens
+11,Lundi,13h30,16h30,PK-1630,Samuele Giraudo,Cours magistral,,,INF1132,Mathématiques pour l'informatique, Examens Examens Examens
+11,Vendredi,13h30,15h30,PK-1350,Samuele Giraudo,Atelier,,,INF1132,Mathématiques pour l'informatique, Examens Examens Examens
+11,Vendredi,13h30,15h30,PK-1630,Samuele Giraudo,Atelier,,,INF1132,Mathématiques pour l'informatique, Examens Examens Examens
+40,Jeudi,18h00,21h00,,Samuele Giraudo,Cours magistral,,,INF1132,Mathématiques pour l'informatique, Examens Examens Examens
+40,Vendredi,18h00,20h00,,Samuele Giraudo,Atelier,,,INF1132,Mathématiques pour l'informatique, Examens Examens Examens
+20,Mardi,13h30,16h30,SH-3420,Gnagnely Serge Dogny,Cours magistral,,,INF2050,Outils et pratiques de développement logiciel, Examens Examens
+20,Vendredi,13h30,15h30,PK-S1580,Gnagnely Serge Dogny,Atelier,,,INF2050,Outils et pratiques de développement logiciel, Examens Examens
+20,Vendredi,13h30,15h30,PK-S1555,Gnagnely Serge Dogny,Atelier,,,INF2050,Outils et pratiques de développement logiciel, Examens Examens
+30,Mercredi,18h00,21h00,SH-3620,Gnagnely Serge Dogny,Cours magistral,,,INF2050,Outils et pratiques de développement logiciel, Examens Examens
+30,Jeudi,18h00,20h00,PK-S1575,Gnagnely Serge Dogny,Atelier,,,INF2050,Outils et pratiques de développement logiciel, Examens Examens
+30,Jeudi,18h00,20h00,PK-S1555,Gnagnely Serge Dogny,Atelier,,,INF2050,Outils et pratiques de développement logiciel, Examens Examens
+10,Lundi,13h30,16h30,SH-2420,Bruno Malenfant,Cours magistral,,,INF2120,Programmation II, Examens Examens
+10,Mercredi,14h00,16h00,PK-S1565,Bruno Malenfant,Atelier,,,INF2120,Programmation II, Examens Examens
+10,Mercredi,14h00,16h00,PK-S1580,Bruno Malenfant,Atelier,,,INF2120,Programmation II, Examens Examens
+30,Mercredi,18h00,21h00,SH-R810,Bruno Malenfant,Cours magistral,,,INF2120,Programmation II, Examens Examens
+30,Jeudi,18h00,20h00,PK-S1580,Bruno Malenfant,Atelier,,,INF2120,Programmation II, Examens Examens
+10,Lundi,09h30,12h30,SH-2420,Aléna Tsikhanovich,Cours magistral,,,INF2171,Organisation des ordinateurs et assembleur, Examens Examens
+10,Mardi,09h30,11h30,PK-S1565,Aléna Tsikhanovich,Atelier,,,INF2171,Organisation des ordinateurs et assembleur, Examens Examens
+10,Mardi,09h30,11h30,PK-S1590,Aléna Tsikhanovich,Atelier,,,INF2171,Organisation des ordinateurs et assembleur, Examens Examens
+11,Lundi,18h00,21h00,PK-1350,Aléna Tsikhanovich,Cours magistral,,,INF2171,Organisation des ordinateurs et assembleur, Examens Examens
+11,Vendredi,18h00,20h00,PK-S1565,Aléna Tsikhanovich,Atelier,,,INF2171,Organisation des ordinateurs et assembleur, Examens Examens
+11,Vendredi,18h00,20h00,PK-S1530,Aléna Tsikhanovich,Atelier,,,INF2171,Organisation des ordinateurs et assembleur, Examens Examens
+30,Mercredi,09h30,12h30,SH-R810,Ammar Hamad,Cours magistral,,,INF3080,Bases de données, Ce cours remplace INF3180
+30,Vendredi,09h30,11h30,PK-S1570,Ammar Hamad,Atelier,,,INF3080,Bases de données, Ce cours remplace INF3180
+30,Vendredi,09h30,11h30,PK-S1560,Ammar Hamad,Atelier,,,INF3080,Bases de données, Ce cours remplace INF3180
+10,Lundi,18h00,21h00,SH-2420,Moussa Abdenbi,Cours magistral,,,INF3105,Structures de données et algorithmes,
+10,Jeudi,18h00,20h00,PK-S1570,Moussa Abdenbi,Atelier,,,INF3105,Structures de données et algorithmes,
+10,Jeudi,18h00,20h00,PK-S1565,Moussa Abdenbi,Atelier,,,INF3105,Structures de données et algorithmes,
+10,Lundi,13h30,16h30,SH-3620,Gnagnely Serge Dogny,Cours magistral,,,INF3135,Construction et maintenance de logiciels,
+10,Mardi,13h30,15h30,PK-S1570,Gnagnely Serge Dogny,Atelier,,,INF3135,Construction et maintenance de logiciels,
+10,Mardi,13h30,15h30,PK-S1560,Gnagnely Serge Dogny,Atelier,,,INF3135,Construction et maintenance de logiciels,
+10,Lundi,09h30,12h30,SH-3620,Francis Giraldeau,Cours magistral,,,INF3173,Principes des systèmes d'exploitation, Ce cours remplace le INF3172
+10,Mardi,09h30,11h30,PK-S1570,Francis Giraldeau,Atelier,,,INF3173,Principes des systèmes d'exploitation, Ce cours remplace le INF3172
+10,Mardi,09h30,11h30,PK-S1560,Francis Giraldeau,Atelier,,,INF3173,Principes des systèmes d'exploitation, Ce cours remplace le INF3172
+40,Lundi,09h30,11h30,PK-S1555,Jacques Berger,Atelier,,,INF3190,Introduction à la programmation Web, Ce cours remplace INF2005
+40,Lundi,09h30,11h30,PK-S1575,Jacques Berger,Atelier,,,INF3190,Introduction à la programmation Web, Ce cours remplace INF2005
+40,Jeudi,09h30,12h30,SH-R810,Jacques Berger,Cours magistral,,,INF3190,Introduction à la programmation Web, Ce cours remplace INF2005
+40,Mercredi,14h00,16h00,PK-S1585,Es-Said Sabir,Atelier,,,INF3271,Téléinformatique, PRÉSENCE OBLIGATOIRE À UNE SEULE DES 2 PÉRIODES D'ATELIER
+40,Jeudi,13h30,16h30,SH-R810,Es-Said Sabir,Cours magistral,,,INF3271,Téléinformatique, PRÉSENCE OBLIGATOIRE À UNE SEULE DES 2 PÉRIODES D'ATELIER
+40,Vendredi,13h30,15h30,PK-S1585,Es-Said Sabir,Atelier,,,INF3271,Téléinformatique, PRÉSENCE OBLIGATOIRE À UNE SEULE DES 2 PÉRIODES D'ATELIER
+50,Vendredi,13h30,16h30,PK-R650,Francis Giraldeau,Cours magistral,,,INF4170,Architecture des ordinateurs,
+10,Lundi,13h30,16h30,PK-R650,Florent Avellaneda,Cours magistral,,,INF4230,Intelligence artificielle,
+40,Mercredi,18h00,20h00,PK-S1580,Gloria Loko,Atelier,,,INF4471,Introduction à la sécurité informatique,
+40,Jeudi,18h00,21h00,PK-R310,Gloria Loko,Cours magistral,,,INF4471,Introduction à la sécurité informatique,
+10,Lundi,18h00,21h00,PK-R310,Matthieu Willems,Cours magistral,,,INF5130,Algorithmique,
+10,Mardi,18h00,20h00,PK-R310,Matthieu Willems,Atelier,,,INF5130,Algorithmique,
+40,Jeudi,09h30,12h30,SH-2620,El Hachemi Alikacem,Cours magistral,,,INF5151,Génie logiciel: analyse et modélisation, IL FAUT AVOIR REUSSI 30 CREDITS AU BACCIL FAUT AVOIR REUSSI 15 CREDITS AU CERTIFICAT
+30,Mercredi,18h00,21h00,PK-R310,Jacques Berger,Cours magistral,,,INF5153,Génie logiciel: conception,
+30,Jeudi,18h00,20h00,PK-S1530,Jacques Berger,Atelier,,,INF5153,Génie logiciel: conception,
+30,Jeudi,18h00,20h00,PK-S1540,Jacques Berger,Atelier,,,INF5153,Génie logiciel: conception,
+10,Lundi,09h30,12h30,PK-R650,Jacques Berger,Cours magistral,,,INF5190,Programmation Web avancée, Ce cours remplace le INF4375.
+10,Jeudi,09h30,11h30,PK-S1555,Jacques Berger,Atelier,,,INF5190,Programmation Web avancée, Ce cours remplace le INF4375.
+30,Mercredi,14h00,17h00,PK-R310,Philippe Pepos-Petitclerc,Cours magistral,,,INF600C,SECURITE DES LOGICIELS & EXPLOIT. DE VULNERABILITES,
+30,Jeudi,13h30,15h30,PK-7210,Philippe Pepos-Petitclerc,Atelier,,,INF600C,SECURITE DES LOGICIELS & EXPLOIT. DE VULNERABILITES,
+20,Mardi,09h30,12h30,PK-R610,Étienne M. Gagnon,Cours magistral,,,INF600E,CREATION DE LANGAGES INFORMATIQUES, **CE COURS EST ÉQUIVALENT AU INF5000**
+20,Vendredi,09h30,11h30,PK-S1590,Étienne M. Gagnon,Atelier,,,INF600E,CREATION DE LANGAGES INFORMATIQUES, **CE COURS EST ÉQUIVALENT AU INF5000**
+20,Mardi,13h30,16h30,PK-R605,Philippe Lemieux,Cours magistral,,,INF600F,Traitement d'images,
+20,Mercredi,09h30,11h30,PK-S1545,Philippe Lemieux,Laboratoire,,,INF600F,Traitement d'images,
+10,Lundi,18h00,21h00,SB-M210,Bruno Malenfant,Cours magistral,,,INF6120,Programmation fonctionnelle et logique, CE COURS REMPLACE INF2160
+10,Mardi,18h00,20h00,PK-S1570,Bruno Malenfant,Atelier,,,INF6120,Programmation fonctionnelle et logique, CE COURS REMPLACE INF2160
+10,Mardi,18h00,20h00,PK-S1560,Bruno Malenfant,Atelier,,,INF6120,Programmation fonctionnelle et logique, CE COURS REMPLACE INF2160
+30,Lundi,13h30,16h30,PK-R610,Ammar Hamad,Cours magistral,,,INF6150,Génie logiciel: conduite de projets informatiques, Ce cours contient une session de réalisationun samedi de 9h à 17h
+80,--,--,--,--,Louise Laforest,--,,,INF6200,Initiation à la recherche," Pour s'inscrire à ce cours, veuillez écrire à"
+80,--,--,--,--,Diego Elias Damasceno Costa,--,,,INM4701,Préparation au stage d'informatique I, DEUX RENCONTRES OBLIGATOIRES DATES A PRECISERInscription à stagecoop.informatique@uqam.caInscription par votre direction de programme
+80,--,--,--,--,Non disponible,--,,,INM4702,Préparation au stage d'informatique II, DEUX RENCONTRES OBLIGATOIRES DATES A PRECISERInscription à stagecoop.informatique@uqam.caInscription par votre direction de programme
+80,--,--,--,--,Non disponible,--,,,INM4703,Préparation au stage d'informatique III, DEUX RENCONTRES OBLIGATOIRES DATES A PRECISERInscription à stagecoop.informatique@uqam.caInscription par votre direction de programme
+10,Lundi,13h30,16h30,SH-3540,Félix-Étienne Trépanier,Cours magistral,,,INM5151,Projet d'analyse et de modélisation," Projet pilote - Ce groupe doit être suivi en concomitanceavec INF6150. Pour vous inscrire, écrivez à bigl@uqam.ca"
+11,Lundi,09h30,12h30,SH-2540,Félix-Étienne Trépanier,Cours magistral,,,INM5151,Projet d'analyse et de modélisation," Projet pilote - Ce groupe doit être suivi en concomitanceavec INF6150. Pour vous inscrire, écrivez à bigl@uqam.ca"
+80,--,--,--,--,Non disponible,--,,,INM5801,Stage d'informatique I, Inscription à stagecoop.informatique@uqam.caInscription par votre direction de programme
+80,--,--,--,--,Non disponible,--,,,INM5802,Stage d'informatique II, Inscription à stagecoop.informatique@uqam.caInscription par votre direction de programme
+80,--,--,--,--,Non disponible,--,,,INM5803,Stage d'informatique III, Inscription à stagecoop.informatique@uqam.caInscription par votre direction de programme
+50,Vendredi,09h30,12h30,PK-R650,Marc-Olivier Killijian,Cours magistral,,,INM6000,Informatique et société, IL FAUT AVOIR RÉUSSI 45 CRÉDITS DU PROGRAMME
+20,Mardi,18h00,21h00,R-M140,Stevan Harnad,Cours magistral,,,ISC1000,Introduction à l'étude interdisciplinaire de la cognition,
+30,Mercredi,14h00,17h00,DS-R510,Antony Karelis,Cours magistral,,,KIN1002,"Activité physique, alimentation et santé", Cours non crédité au bac d'intervention en activité physique
+43,Jeudi,18h00,21h00,N-M110,Christian Duval,Cours magistral,,,KIN1004,Principes fondamentaux de la course à pied, Cours non crédité au bac d'intervention en activité physique
+40,Jeudi,18h00,21h00,PK-R220,Mehrdad Najafpour Ghazvini,Cours magistral,,,MAT0339,Mathématiques générales (hors programme),
+40,Samedi,10h00,12h00,PK-R220,Mehrdad Najafpour Ghazvini,Exercices,,,MAT0339,Mathématiques générales (hors programme),
+30,Mercredi,18h00,21h00,PK-R610,Zakaria El Mrabet,Cours magistral,,,MAT0341,Calcul différentiel et intégral I (hors programme), Cours d'appoint
+30,Samedi,13h00,15h00,PK-R610,Zakaria El Mrabet,Exercices,,,MAT0341,Calcul différentiel et intégral I (hors programme), Cours d'appoint
+10,Lundi,18h00,21h00,PK-1620,Stéphanie Sampson,Cours magistral,,,MAT0343,Calcul différentiel (hors programme),
+10,Vendredi,10h00,12h00,PK-1620,Stéphanie Sampson,Exercices,,,MAT0343,Calcul différentiel (hors programme),
+40,Jeudi,18h00,21h00,PK-1630,Abdou Oussama Benabida,Cours magistral,,,MAT0600,Algèbre linéaire et géométrie vectorielle (hors programme),
+40,Samedi,10h00,12h00,PK-1630,Abdou Oussama Benabida,Exercices,,,MAT0600,Algèbre linéaire et géométrie vectorielle (hors programme),
+10,Lundi,18h00,21h00,SH-3420,Rawane Samb,Cours magistral,,,MAT4681,Statistique pour les sciences,
+10,Mardi,18h00,20h00,SH-3420,Rawane Samb,Exercices,,,MAT4681,Statistique pour les sciences,
+40,Jeudi,09h30,12h30,SH-2420,Rawane Samb,Cours magistral,,,MAT4681,Statistique pour les sciences,
+40,Vendredi,09h30,11h30,SH-2420,Rawane Samb,Exercices,,,MAT4681,Statistique pour les sciences,
+01,Mercredi,09h30,12h30,"UQAM - LavalUQAM Campus de Laval475, boulevard de l'AvenirLaval (Québec)",Marie-Claude Petit,Cours magistral,,,MGT3224,Introduction à la gestion de projet, Le MGT3224 remplace le MET3224 7434 obligatoire 3e année CE COURS REMPLACE LE MET3224
+20,Mardi,14h00,17h00,DS-M320,Marie-Claude Petit,Cours magistral,,,MGT3224,Introduction à la gestion de projet, Le MGT3224 remplace le MET3224 7434 obligatoire 3e année CE COURS REMPLACE LE MET3224
+30,Mercredi,18h00,21h00,DS-4375,Marie-Claude Petit,Cours magistral,,,MGT3224,Introduction à la gestion de projet, Le MGT3224 remplace le MET3224 7434 obligatoire 3e année CE COURS REMPLACE LE MET3224
+50,Mercredi,14h30,16h30,PK-1320,Laurence Coursol,Exercices,,,PHG0340,"Ondes, électromagnétisme et physique moderne (hors programme)", Cours d'appoint pour admission
+50,Vendredi,13h30,16h30,PK-1320,Laurence Coursol,Cours magistral,,,PHG0340,"Ondes, électromagnétisme et physique moderne (hors programme)", Cours d'appoint pour admission
+30,Mercredi,18h00,21h00,PK-R650,Frédérick Chosson,Cours magistral,,,SCA2611,Introduction à la météorologie,
+10,Lundi,09h00,12h00,PK-6205,Tiffany AudetAnne de Vernal,Cours magistral,,,SCT2210,Paléontologie,
+10,Lundi,13h00,16h00,PK-6205,Tiffany AudetAnne de Vernal,Exercices,,,SCT2210,Paléontologie,
+10,Lundi,13h00,16h00,PK-6265,Tiffany AudetAnne de Vernal,Exercices,,,SCT2210,Paléontologie,
