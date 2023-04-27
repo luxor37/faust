@@ -1,48 +1,30 @@
-﻿# Faust
+﻿## Description
 
-Pour avoir les liste de cours que l'UQAM veut pas fournir... FU UQAM, les levées vont se faire pis avec les
-listes en plus.
-
-## Description
-
-Well
-
-## Getting Started
+Pour avoir la liste des cours que l'UQAM veut pas fournir...
 
 ### Dependencies
 
-* Sur linux, fonctionne surement ailleur si t'es hérétique, mais pas testé
-* Python3.6 ou 3.8, fonctionne surement sur des versions plus vieille, mais pas testé non plus.
+- Python 3.x \
+- Packages python: voir [requirements.txt](requirements.txt)
 
 ### Installing
 
-* Setter un virtualenv
-* Installer les librairies
-* Run, wait and enjoy
-```
-cd /path/to/the/folder/constaining/this/file
-virtualenv -p python3.6 env/
-source env/bin/activate
+Installer Python3 sur sa machine (les commandes suivantes peuvent varier selon les systèmes d'exploitation)
+
+Installer les packages python necessaire:
+```bash
 pip install -r requirements.txt
 ```
 
-### Executing program
-
-Ajuster les variables (haut du fichier, en MAJUSCULES) dans le fichier faust.py ex: PROGRAMMES, SESSION, etc
-```
-source env/bin/activate
+Rouler le programme:
+```bash
 python faust.py
 ```
-Ouvrir le fichier liste-cours.csv avec libreoffice ou si t'es un hérétique avec excel... t'es mieux pas!
 
-## Help
+### Configuration
 
-Check les options avec 
-```
-python faust.py -h
-```
-Autrement je sais pas quoi te dire, rejoins quelqu'un qui connais le python ou un peu l'informatique
+Si tu utilise pas l'exécutable, tu peux aller dans [variables.py](variables.py) pour mettre a jour la liste des codes des programmes ainsi que les cookies et headers pour que les requêtes continuent a fonctionner (je compte pas maintenir le projet plus que ca, donc ouvrez un issue sur github avec les nouvelles infos pour que j'update ca)
 
 ## Authors
 
-Didn't see shit!
+idk ¯\_(ツ)_/¯, je me suis fait donner ca par un ami et j'ai amélioré, je suis même plus étudiant XD

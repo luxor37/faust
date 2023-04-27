@@ -1,5 +1,3 @@
-#!/usr/bin/python
-
 # this is faust
 # This script has been provided by an unknown person and reworked/updated by another unknown person so guess what it
 # mean for the copyright... there's NONE! Obviously you don't need to ask to use/rewrite/rework it or whatever
@@ -7,8 +5,6 @@
 # pulls data to get all classes associated w/ everyprogram in a programme at uqam
 # from https://etudier.uqam.ca/recherche-horaires
 from datetime import datetime
-import argparse
-import sys
 from faust_lib import Faust
 
 import tkinter as tk
@@ -47,7 +43,7 @@ config_section.pack(padx=10, pady=10, fill='x', expand=True, anchor=tk.N)
 programme = tk.StringVar()
 programme.set("")
 
-programme_label = ttk.Label(config_section, text="Programme (facultatif):")
+programme_label = ttk.Label(config_section, text="Programme (facultatif) (ex.: 7416):")
 programme_label.grid(column=0, row=0, sticky=tk.E)
 programme_entry = ttk.Entry(config_section, textvariable=programme, width=5)
 programme_entry.grid(column=1, row=0, columnspan=3, sticky=tk.W)
@@ -102,6 +98,7 @@ def launchProgram():
 
 button = ttk.Button(root, text='Générer', command=lambda: launchProgram())
 button.pack()
+ttk.Label(root, text="Soyez patient! Très long, surtout sans le filtre du code de programme").pack()
 
 try:
     from ctypes import windll
