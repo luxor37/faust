@@ -2,6 +2,8 @@
 
 Pour avoir la liste des cours que l'UQAM veut pas fournir...
 
+Download la version compilé exe pour windows sur la page des [releases](https://github.com/luxor37/faust/releases)
+
 ### Dependencies
 
 - Python 3.x \
