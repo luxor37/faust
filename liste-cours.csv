@@ -1,9 +1,13 @@
-groupe,jour,debut,fin,salle,prof,type,presentiel,dates,sigle,titre,note
-30,Mardi,14h00,17h00,A-2730,Pierre Duchesne,Cours magistral,,,CPS1003,Communication et journalisme politiques, Modalité d'enseignement: Cours en présentiel Période d'activité:9 janvier 2023 au 21 avril 2023
-80,--,--,--,--,Tania Gosselin,--,,,CPS5000,Stage, Inscription par votre direction de programme Modalité d'enseignement: Cours en présentiel Période d'activité:9 janvier 2023 au 21 avril 2023
-80,--,--,--,--,Tania Gosselin,--,,,CPS5005,Stage, Inscription par votre direction de programme Modalité d'enseignement: Cours en présentiel Période d'activité:9 janvier 2023 au 21 avril 2023
-20,Mardi,09h30,12h30,A-2405,Tania Gosselin,Cours magistral,,,CPS6001,"Séminaire de synthèse en communication, politique et société", Modalité d'enseignement: Cours en présentiel Période d'activité:9 janvier 2023 au 21 avril 2023
-20,Mardi,14h00,17h00,J-1050,Yves Théoret,Cours magistral,,,EDM1001,Introduction aux théories de la communication médiatique, Modalité d'enseignement: Cours en présentiel Période d'activité:9 janvier 2023 au 21 avril 2023
-30,Mercredi,09h30,12h30,V-3430,Roland-Yves Carignan,Cours magistral,,,EDM1004,Histoire des technologies numériques de l'information et de la communication, Médias numériques-Cohorte Première année Modalité d'enseignement: Cours en présentiel Période d'activité:9 janvier 2023 au 21 avril 2023
-40,Jeudi,14h00,17h00,J-1050,Mazel Bidaoui,Cours magistral,,,EDM1007,Approches sociopolitiques des communications médiatiques, Médias numériques-Cohorte Première année Modalité d'enseignement: Cours en présentiel Période d'activité:9 janvier 2023 au 21 avril 2023
-40,Jeudi,09h30,12h30,A-2875,Maxime Ouellet,Cours magistral,,,EDM2854,Communication médiatique et mondialisation, 7332 - COURS DE BLOC C Modalité d'enseignement: Cours en présentiel Période d'activité:9 janvier 2023 au 21 avril 2023
+groupe,jour,debut,fin,salle,prof,type,presentiel,dates,sigle,titre,note
+30,Mardi,14h00,17h00,A-2730,Pierre Duchesne,Cours magistral,,,CPS1003,Communication et journalisme politiques, Modalité d'enseignement: Cours en présentiel Période d'activité:9 janvier 2023 au 21 avril 2023
+80,--,--,--,--,Tania Gosselin,--,,,CPS5000,Stage, Inscription par votre direction de programme Modalité d'enseignement: Cours en présentiel Période d'activité:9 janvier 2023 au 21 avril 2023
+80,--,--,--,--,Tania Gosselin,--,,,CPS5005,Stage, Inscription par votre direction de programme Modalité d'enseignement: Cours en présentiel Période d'activité:9 janvier 2023 au 21 avril 2023
+20,Mardi,09h30,12h30,A-2405,Tania Gosselin,Cours magistral,,,CPS6001,"Séminaire de synthèse en communication, politique et société", Modalité d'enseignement: Cours en présentiel Période d'activité:9 janvier 2023 au 21 avril 2023
+20,Mardi,18h00,21h00,,Nicolas Guillemette,Cours magistral,,,ECO1600,Économie du Québec, Modalité d'enseignement: Cours à distance Période d'activité:9 janvier 2023 au 30 avril 2023
+40,Jeudi,14h00,17h00,DS-4375,Simon Cadorette,Cours magistral,,,ECO1600,Économie du Québec, Modalité d'enseignement: Cours en présentiel Période d'activité:9 janvier 2023 au 30 avril 2023
+20,Mardi,14h00,17h00,J-1050,Yves Théoret,Cours magistral,,,EDM1001,Introduction aux théories de la communication médiatique, Modalité d'enseignement: Cours en présentiel Période d'activité:9 janvier 2023 au 21 avril 2023
+40,Jeudi,09h30,12h30,A-2875,Maxime Ouellet,Cours magistral,,,EDM2854,Communication médiatique et mondialisation, 7332 - COURS DE BLOC C Modalité d'enseignement: Cours en présentiel Période d'activité:9 janvier 2023 au 21 avril 2023
+40,Jeudi,18h00,21h00,A-2860,Véronique Marino,Cours magistral,,,EDM3210,Organisation économique des médias, 6503-6504-6505-COHORTE 2022 Modalité d'enseignement: Cours en présentiel Période d'activité:9 janvier 2023 au 21 avril 2023
+41,Mercredi,09h30,12h30,DS-R525,Catalina Briceno,Cours magistral,,,EDM3210,Organisation économique des médias, 7234-COHORTE 2022 Modalité d'enseignement: Cours en présentiel Période d'activité:9 janvier 2023 au 21 avril 2023
+40,Jeudi,09h30,12h30,R-R140,Dany Beaupré,Cours magistral,,,EDM3555,Rhétorique des médias interactifs, 6504-Cohorte 2022 Modalité d'enseignement: Cours en présentiel Période d'activité:9 janvier 2023 au 21 avril 2023
+10,Lundi,14h00,17h00,DS-4375,Isabelle Caron,Cours magistral,,,EDM3602,Médias numériques et mobilisation sociopolitique, 7332 - Cohorte 3e année Modalité d'enseignement: Cours en présentiel Période d'activité:9 janvier 2023 au 21 avril 2023

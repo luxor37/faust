@@ -82,7 +82,8 @@ try:
 
     windll.shcore.SetProcessDpiAwareness(1)
 finally:
-    root.mainloop()
+    if __name__ == '__main__':
+        root.mainloop()
 
 
 # if __name__ == '__main__':
