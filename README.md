@@ -27,4 +27,4 @@ Si tu utilise pas l'exécutable, tu peux aller dans [variables.py](variables.py)
 
 ## Authors
 
-idk ¯\_(ツ)_/¯, je me suis fait donner ca par un ami et j'ai amélioré, je suis même plus étudiant XD
+idk ¯\\_(ツ)_/¯, je me suis fait donner ca par un ami et j'ai amélioré, je suis même plus étudiant XD
